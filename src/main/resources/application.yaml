@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: mongodbproject
+  data:
+    mongodb:
+      authentication-database: admin
+      username: anilerkut
+      password: anilerkut
+      database: mongodbfirst
+      port: 27017
+      host: localhost
+      auto-index-creation: true
+
+
+
